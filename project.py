@@ -1,5 +1,4 @@
 import random
-
 #Requirment for Password
 lower_case = "abcdefghijklmnopqrstuvwxyz"
 upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
